@@ -124,13 +124,13 @@ plt.axis("off")
 plt.show()
 ```
 ## Output:
-![image](https://github.com/HariniBaskar/Ex1-AAI/assets/93427253/a11ccfc8-c916-4a18-a1e6-40d11f67a1b5)
+![image](ai1.png)
 
-![image](https://github.com/HariniBaskar/Ex1-AAI/assets/93427253/1808a34b-5013-4778-8eb5-0282b928820b)
+![image](ai2.png)
 
-![image](https://github.com/HariniBaskar/Ex1-AAI/assets/93427253/99dee559-d24b-4d74-8e61-8714ea8d705a)
+![image](ai3.png)
 
-![image](https://github.com/HariniBaskar/Ex1-AAI/assets/93427253/12684e3f-d551-4410-81ee-29dcb9c4de90)
+![image](ai4.png)
 
 ## Result:
    Thus a Bayesian Network is generated using Python
