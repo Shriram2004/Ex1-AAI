@@ -1,8 +1,8 @@
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
 
 
-<H3> Name: Harini B. </H3>
-<H3> Register No: 212221230035</H3>
+<H3> Name: Shriram R </H3>
+<H3> Register No: 212221240053</H3>
 <H3> Experiment No: 1</H3>
 <H3> Date: 05-03-2024</H3>
 
